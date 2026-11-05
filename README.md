@@ -35,3 +35,7 @@ The cleaned dataset was exported to an Excel file named:
 **Online_Store_Cleaned.xlsx**
 
 It is now ready for use in Excel PivotTables, charts, and interactive dashboards.
+## Files
+- task1/Messy_Online_Store_Orders.csv : raw data
+- task1/Online_Store_Cleaned.xlsx : cleaned data
+- Online_Store_Data_Cleaning.ipynb : cleaning code (Python/Pandas)
